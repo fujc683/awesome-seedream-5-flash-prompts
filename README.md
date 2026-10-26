@@ -9,6 +9,8 @@
 [English](README.md) | [简体中文](README_zh.md) | [日本語](README_ja.md)
 
 **[👉 Generate with Seedream 5.0 Flash on APIMart · apimart.ai/model/seedream-5-0-flash](https://gola.apimart.ai/k-EFVHhg)**
+
+`https://gola.apimart.ai/k-EFVHhg`
 [💰 Pricing](https://gola.apimart.ai/k-3kg5t3) · [🔑 Get an API key](https://gola.apimart.ai/k-50Bumc)
 
 
@@ -35,7 +37,7 @@ Midjourney is known for painterly aesthetics and stylized art direction. This co
 
 - **252** prompts in this collection
 - **9** Category
-- Last updated: 2026-10-26
+- Last updated: 2026-10-20
 - apimart.ai/model/seedream-5-0-flash
 
 ## Browse by Category
